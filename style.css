@@ -1,0 +1,23 @@
+.orchid-background-color {
+  background-color: orchid;
+}
+.ui.mini.borderless.socialmedia.menu.container {
+  background-color: orchid;
+}
+.wine-background {
+  background: url('http://courses.ics.hawaii.edu/ics314f19/morea/ui-frameworks/wod-dvine-glasses.png') no-repeat;
+}
+.menu.socialmedia {
+  box-shadow: none;
+  border: none;
+}
+.ui.mini.borderless.socialmedia.menu.container > a.item {
+  color: white;
+}
+.topmenu.menu {
+  box-shadow: none;
+  border-radius: 0px;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
